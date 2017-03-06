@@ -1,0 +1,6 @@
+framework module ZYUIViewExtension {
+  umbrella header "ZYUIViewExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
